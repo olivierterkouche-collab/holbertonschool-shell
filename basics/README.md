@@ -1,1 +1,1 @@
-Bienvenue dans le fichier basics
+Shell project part 1 : basics
