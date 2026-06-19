@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((BINARY>>11))$(\n)"
+$((2#$BINARY))
