@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -vo -e C -e c
+tr -d C | tr -d c
