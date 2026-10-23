@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a1R | find -empty
+find | tr "/" "\n" | sort | uniq
